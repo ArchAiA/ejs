@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mouse",
+				"mousemove"
+			],
+			[
+				"chang",
+				"changeColor"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"creat",
+				"createElement"
+			],
+			[
+				"let",
+				"let"
+			],
+			[
+				"pla",
+				"player01Card"
+			],
+			[
+				"pl",
+				"player02Card"
+			],
+			[
+				"te",
+				"tempCardScore"
+			],
+			[
+				"tempCard",
+				"tempCardName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"var dat = 'test';",
+			"var dat = 'test'",
+			"var data = test",
+			"ll"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/projects/js-dc-6/08-events/assignment/pixartFail/pixart.js",
+		"/home/david/projects/js-dc-6/08-events/assignment/pixartFail/style.css",
+		"/home/david/projects/js-dc-6/08-events/assignment/pixart/pixart.js",
+		"/home/david/projects/js-dc-6/08-events/assignment/pixart/style.css",
+		"/home/david/projects/js-dc-6/08-events/exercise/five/index.js",
+		"/home/david/projects/js-dc-6/10-express/exercise/first_server/package-lock.json",
+		"/home/david/projects/js-dc-6/08-events/exercise/five/main.css",
+		"/home/david/projects/js-dc-6/08-events/exercise/five/index.html",
+		"/home/david/projects/js-dc-6/10-express/exercise/first_server/package.json",
+		"/home/david/projects/js-dc-6/10-express/exercise/first_server/index.js",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-solution/package.json",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-solution/index.js",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-solution/public/index.html",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-solution/models/todo.js",
+		"/home/david/projects/js-dc-6/10-express/exercise/first_server_sean/package.json",
+		"/home/david/projects/js-dc-6/10-express/exercise/first_server_sean/index.js",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-starter/index.js",
+		"/home/david/projects/js-dc-6/11-crud-and-dbs/exercise/todo-starter/package.json",
+		"/home/david/projects/js-dc-6/08-events/assignment/pixart/index.html",
+		"/home/david/projects/js-dc-6/08-events/assignment/assignment.md",
+		"/home/david/projects/js-dc-6/08-events/readme.md",
+		"/home/david/projects/js-dc-6/07-intro-to-dom/exercise/two/index.js",
+		"/home/david/projects/js-dc-6/07-intro-to-dom/exercise/two/index.",
+		"/home/david/projects/js-dc-6/08-events/exercise/four/index.html",
+		"/home/david/projects/js-dc-6/08-events/exercise/four/index.js",
+		"/home/david/projects/js-dc-6/08-events/exercise/three/index.js",
+		"/home/david/projects/js-dc-6/08-events/exercise/three/index.html",
+		"/home/david/projects/js-dc-6/08-events/exercise/two/index.js",
+		"/home/david/projects/js-dc-6/08-events/exercise/two/index.html",
+		"/home/david/projects/js-dc-6/06_lab/starter/index.js",
+		"/home/david/projects/js-dc-6/05-objects/exercises/data.json",
+		"/home/david/projects/js-dc-6/05-objects/exercises/02_exercise.js",
+		"/home/david/projects/js-dc-6/06_lab/starter/index3.js",
+		"/home/david/projects/js-dc-6/06_lab/starter/index2.js",
+		"/home/david/projects/ga/js-dc-6/04_functions/exercises/functions.js",
+		"/home/david/projects/js-dc-6/01-data_and_operators/homework.js",
+		"/home/david/projects/ga/js-dc-6/04_functions/exercises/03_exercise.js",
+		"/home/david/projects/ga/js-dc-6/04_functions/exercises/02_exercise.js",
+		"/home/david/projects/ga/js-dc-6/04_functions/exercises/01_exercise.js",
+		"/home/david/projects/js-dc-6/01-data_and_operators/myWork.js",
+		"/home/david/projects/js-dc-6/03-data_structures/exercises/arrays.js",
+		"/home/david/projects/jstemp/01-data_and_operators/myWork.js",
+		"/home/david/projects/js6/class/03/bottles.js",
+		"/home/david/projects/js-dc-6/02-control_flow/exercises/control-flow.js",
+		"/home/david/projects/js-dc-6/02-control_flow/exercises/03_exercise.js",
+		"/home/david/projects/js-dc-6/02-control_flow/exercises/02_exercise.js",
+		"/home/david/projects/js-dc-6/02-control_flow/exercises/01_exercise.js",
+		"/home/david/projects/js-dc-6/02-control_flow/assignment/bottles.js",
+		"/home/david/projects/js-dc-6/03-data_structures/fizzbuzz.js",
+		"/home/david/projects/js-dc-6/02-control_flow/assignment/assignment.md",
+		"/home/david/projects/js-dc-6/02-control_flow/assignment/fizzbuzz.js",
+		"/etc/systemd/logind.conf",
+		"/home/david/projects/js-dc-6/02-control_flow/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ejs.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
